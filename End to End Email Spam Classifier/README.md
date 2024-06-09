@@ -88,7 +88,7 @@ Interpret Results: Analyze the model's performance using the visualizations and 
 Feel free to reach out if you encounter any issues or need further assistance with running the notebook.
 
 ## Connect with me 
-Piyush
+Piyush              
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushhh-singhh/)
 
 
